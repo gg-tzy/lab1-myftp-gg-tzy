@@ -1,0 +1,5 @@
+/home/tzy/Desktop/lab1-myftp-gg-tzy/cmake-build-debug/CMakeFiles/ftp_server.dir
+/home/tzy/Desktop/lab1-myftp-gg-tzy/cmake-build-debug/CMakeFiles/ftp_client.dir
+/home/tzy/Desktop/lab1-myftp-gg-tzy/cmake-build-debug/CMakeFiles/test.dir
+/home/tzy/Desktop/lab1-myftp-gg-tzy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tzy/Desktop/lab1-myftp-gg-tzy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
